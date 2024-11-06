@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Sou de Vitória da Conquista - BA, Brasil.<br><br>- 🔭 Estagiário na ONAcrm<br>- 📚 Estou aprimorando meus conhecimentos com FrontEnd e estudando bastante a parte do BackEnd.<br>- ⚡No meu tempo livre gosto de jogar, ler e ver serie.</p>
+<p align="left">Sou de Vitória da Conquista - BA, Brasil.<br><br>- 🔭 Estagiário na ONAcrm.<br>- 📚 Estou aprimorando meus conhecimentos com FrontEnd e estudando bastante a parte do BackEnd.<br>- ⚡No meu tempo livre gosto de jogar, ler e ver serie.</p>
 
 ###
 
