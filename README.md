@@ -1,66 +1,148 @@
-<h1 align="center">Olá, me chamo Kéven! 👋</h1>
+<h1 align="center">
+  Olá! 👋 Eu sou Kéven Patrício
+</h1>
 
-###
+<p align="center">
+  Desenvolvedor Front-End • UI/UX Designer • Estudante de Back-End
+</p>
 
-<div align="center">
-  <a href="https://www.instagram.com/keven.dev_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/407702678991536138" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/kevenpatricio/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>  
-  <a href="https://patriciokeven4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;UI%2FUX+Designer;Sempre+aprendendo+novas+tecnologias;Bem-vindo+ao+meu+perfil!" />
+</p>
 
-###
+---
 
-<h3 align="left">🧑‍💻  Sobre mim</h3>
+## 🚀 Sobre mim
 
-###
+💙 Olá! Me chamo **Kéven Patrício**.
 
-<p align="left">Sou de Vitória da Conquista - BA, Brasil.<br><br>- 🔭 Estagiário na Vittal<br>- 📚 Estou aprimorando meus conhecimentos com FrontEnd, UX/UI e estudando bastante a parte do BackEnd.<br>- ⚡No meu tempo livre gosto de jogar, ler e ver serie.</p>
+Sou desenvolvedor apaixonado por criar interfaces bonitas, intuitivas e funcionais.
 
-###
+Atualmente trabalho como **Estagiário na Vittal**, desenvolvendo soluções web e estudando constantemente para evoluir como desenvolvedor Full Stack.
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+### Atualmente estou
 
-###
+- 💼 Estagiário na Vittal
+- 🌱 Aprendendo Node.js e Back-End
+- 🎨 Aprimorando UX/UI
+- 🚀 Desenvolvendo projetos pessoais
+- 📍 Vitória da Conquista - Bahia
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
+---
 
-###
+## 🌎 Redes
 
-<h3 align="left">🔥   Minhas estatísticas:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/kevenpatricio/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-###
+<a href="https://www.instagram.com/keven.dev_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keveeen13&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Keveeen13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Keveeen13&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<a href="mailto:patriciokeven4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-###
+<a href="https://discord.com/users/407702678991536138">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tecnologias
+
+### Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap" />
+</p>
+
+### Back-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+### Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" />
+</p>
+
+---
+
+# 📊 Estatísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Keveeen13&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keveeen13&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keveeen13&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Conquistas
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Keveeen13&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribuições
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keveeen13&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Keveeen13/Keveeen13/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🚀 Projetos em destaque
+
+⭐ Dashboard Empresarial
+
+⭐ Landing Pages
+
+⭐ Sistemas Web
+
+⭐ Projetos Front-End
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Keveeen13&color=blue&style=for-the-badge"/>
+
+</p>
