@@ -85,15 +85,14 @@ Atualmente trabalho como **Estagiário na Vittal**, desenvolvendo soluções web
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Keveeen13&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keveeen13&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Keveeen13&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keveeen13&layout=compact&theme=tokyonight" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keveeen13&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Keveeen13&theme=tokyonight" />
 
 </p>
 
@@ -103,7 +102,7 @@ Atualmente trabalho como **Estagiário na Vittal**, desenvolvendo soluções web
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Keveeen13&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Keveeen13&theme=tokyonight&no-frame=true&margin-w=15" />
 
 </p>
 
@@ -123,7 +122,7 @@ Atualmente trabalho como **Estagiário na Vittal**, desenvolvendo soluções web
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Keveeen13/Keveeen13/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Keveeen13/Keveeen13/output/github-contribution-grid-snake.svg" />
 
 </p>
 
