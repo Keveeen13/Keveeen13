@@ -1,38 +1,13 @@
-<h1 align="center">
-  Olá! 👋 Eu sou Kéven Patrício
-</h1>
+<div align="center">
 
-<p align="center">
-  Desenvolvedor Front-End • UI/UX Designer • Estudante de Back-End
-</p>
+# 👋 Olá, eu sou Kéven Patrício
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;UI%2FUX+Designer;Sempre+aprendendo+novas+tecnologias;Bem-vindo+ao+meu+perfil!" />
-</p>
+### Desenvolvedor Front-End • UI/UX Designer • Estudando Back-End
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+interfaces.;Apaixonado+por+UX%2FUI.;Sempre+aprendendo+novas+tecnologias." />
 
-## 🚀 Sobre mim
+<br>
 
-💙 Olá! Me chamo **Kéven Patrício**.
-
-Sou desenvolvedor apaixonado por criar interfaces bonitas, intuitivas e funcionais.
-
-Atualmente trabalho como **Estagiário na Vittal**, desenvolvendo soluções web e estudando constantemente para evoluir como desenvolvedor Full Stack.
-
-### Atualmente estou
-
-- 💼 Estagiário na Vittal
-- 🌱 Aprendendo Node.js e Back-End
-- 🎨 Aprimorando UX/UI
-- 🚀 Desenvolvendo projetos pessoais
-- 📍 Vitória da Conquista - Bahia
-
----
-
-## 🌎 Redes
-
-<p align="center">
 <a href="https://www.linkedin.com/in/kevenpatricio/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -49,99 +24,157 @@ Atualmente trabalho como **Estagiário na Vittal**, desenvolvendo soluções web
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💻 Tecnologias
+# 💙 Sobre mim
 
-### Front-end
+💻 Sou apaixonado por tecnologia e desenvolvimento de interfaces modernas.
+
+Atualmente atuo como **Estagiário na Vittal**, desenvolvendo soluções web e estudando continuamente para evoluir como desenvolvedor Full Stack.
+
+### Atualmente
+
+- 💼 Estagiário na Vittal
+- 🎨 Estudando UI/UX Design
+- 🌱 Aprendendo Node.js
+- 🚀 Desenvolvendo projetos pessoais
+- 📍 Vitória da Conquista - BA
+
+---
+
+# 🚀 Tecnologias
+
+### Front-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,vite"/>
 </p>
 
-### Back-end
+### Back-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ### Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,ps" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop"/>
 </p>
 
 ### Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress"/>
 </p>
 
 ---
 
 # 📊 Estatísticas
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Keveeen13&show_icons=true&theme=tokyonight&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keveeen13&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Keveeen13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keveeen13&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
+</div>
 
-<img src="https://streak-stats.demolab.com?user=Keveeen13&theme=tokyonight" />
+<br>
 
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=Keveeen13&theme=tokyonight&hide_border=true"/>
 
-# 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Keveeen13&theme=tokyonight&no-frame=true&margin-w=15" />
-
-</p>
+</div>
 
 ---
 
-# 📈 Contribuições
+# 📈 Atividade
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keveeen13&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keveeen13&theme=tokyo-night&hide_border=true"/>
 
-</p>
-
----
-
-# 🐍 Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Keveeen13/Keveeen13/output/github-contribution-grid-snake.svg" />
-
-</p>
+</div>
 
 ---
 
 # 🚀 Projetos em destaque
 
-⭐ Dashboard Empresarial
+<table>
+<tr>
 
-⭐ Landing Pages
+<td width="50%">
 
-⭐ Sistemas Web
+### 📊 Dashboard Empresarial
 
-⭐ Projetos Front-End
+Dashboard desenvolvido para gestão empresarial com indicadores, gráficos e métricas para tomada de decisão.
+
+</td>
+
+<td width="50%">
+
+### 🎨 Landing Pages
+
+Coleção de landing pages modernas, responsivas e focadas em conversão.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💻 Sistemas Web
+
+Projetos completos utilizando HTML, CSS, JavaScript e Node.js.
+
+</td>
+
+<td width="50%">
+
+### 📱 UI/UX
+
+Protótipos desenvolvidos no Figma focando em experiência do usuário.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-<p align="center">
+# 🎯 Objetivos
 
-<img src="https://komarev.com/ghpvc/?username=Keveeen13&color=blue&style=for-the-badge"/>
+✔ Evoluir como Desenvolvedor Full Stack
 
-</p>
+✔ Aprimorar conhecimentos em React
+
+✔ Aprender TypeScript
+
+✔ Aprender Next.js
+
+✔ Criar produtos próprios
+
+---
+
+<div align="center">
+
+### 💬 "A tecnologia move o mundo, mas são as pessoas que dão propósito a ela."
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Keveeen13&style=for-the-badge&color=3B82F6"/>
+
+</div>
