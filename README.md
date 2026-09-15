@@ -30,7 +30,7 @@
 
 Sou um desenvolvedor apaixonado por transformar ideias em produtos digitais.
 
-Atualmente trabalho como **Estagiário na Vittal**, criando interfaces modernas, responsivas e intuitivas.
+Atualmente sem trabalho fixo, mas estou criando interfaces modernas, responsivas e intuitivas.
 
 Tenho interesse em:
 
